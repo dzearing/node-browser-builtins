@@ -1,5 +1,5 @@
 {
-  "name": "browser-builtins",
+  "name": "browser-builtins-private",
   "version": "3.3.1",
   "description": "Builtins that were extracted from node-browser-resolve on which browserify depends",
   "main": "index.js",
